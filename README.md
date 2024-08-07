@@ -28,7 +28,7 @@ The Number Guessing Game is a simple Python application with a graphical user in
 2. **Navigate to the project directory:**
 
    ```bash
-   cd number-guessing-game
+   cd Number-Guessing-Game-with-Tkinter
    ```
 
 ### Running the Game
