@@ -23,9 +23,8 @@ The Number Guessing Game is a simple Python application with a graphical user in
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MohamadMamo/number-guessing-game.git 
+   git clone https://github.com/MohamadMamo/Number-Guessing-Game-with-Tkinter.git
    ```
-
 2. **Navigate to the project directory:**
 
    ```bash
@@ -81,7 +80,7 @@ The Number Guessing Game is a simple Python application with a graphical user in
 
 ### Additional Files
 
-- **LICENSE**: If you are including a license (e.g., MIT License), make sure to add a `LICENSE` file to your repository with the appropriate text.
+- **LICENSE**: If a license (e.g., MIT License) is included, add a `LICENSE` file to your repository with the appropriate text.
 
 ## Screenshots
 
